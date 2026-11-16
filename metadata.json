@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Hub — Verified Student Hostels in Lahore",
+  "description": "Discover verified Boys and Girls student hostels across Lahore by area, budget, and facilities, with an authenticated owner onboarding and admin verification workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

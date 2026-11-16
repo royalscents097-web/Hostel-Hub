@@ -1,0 +1,380 @@
+{
+  "hostels": [
+    {
+      "id": "hst-pending-dha-01",
+      "slug": "al-noor-scholars-boys-hostel-dha",
+      "name": "Al-Noor Scholars Boys Hostel",
+      "ownerName": "Tariq Mahmood",
+      "managerName": "Salman Raza",
+      "ownerEmail": "owner.alnoor@example.com",
+      "publicPhone": "+92 321 4401920",
+      "publicEmail": "admissions@alnoorhostel.pk",
+      "city": "Lahore",
+      "area": "DHA",
+      "fullAddress": "Plot 42-B, Street 7, Phase 4 Sector CC, DHA, Lahore",
+      "category": "boys",
+      "roomTypes": [
+        {
+          "type": "Single Private",
+          "monthlyRent": 29000,
+          "availableBeds": 2
+        },
+        {
+          "type": "2-Seater",
+          "monthlyRent": 21000,
+          "availableBeds": 4
+        },
+        {
+          "type": "3-Seater",
+          "monthlyRent": 16500,
+          "availableBeds": 3
+        }
+      ],
+      "monthlyRentMin": 16500,
+      "monthlyRentMax": 29000,
+      "securityDeposit": 15000,
+      "availableBedsTotal": 9,
+      "facilities": [
+        "High-Speed Wi-Fi",
+        "Generator / UPS Backup",
+        "3-Time Mess Available",
+        "Air-Conditioned Rooms",
+        "24/7 Security Guard & CCTV",
+        "Dedicated Study Room",
+        "Filtered Drinking Water"
+      ],
+      "mealArrangements": "3-time fresh home-style mess served in dining hall (optional monthly plan).",
+      "internetAvailability": "100 Mbps fiber broadband with floor-wise enterprise repeaters.",
+      "electricityBackup": "60kVA standby diesel generator + uninterrupted UPS backup for study lamps.",
+      "securityArrangements": "24/7 guard on main gate, CNIC visitor log, HD CCTV on corridors.",
+      "hostelRules": "Quiet hours 11:00 PM – 6:00 AM. University ID required during admission.",
+      "photos": [
+        "/src/assets/images/hostel_boys_study_room_1794843376255.jpg",
+        "/src/assets/images/hero_lahore_hostel_campus_1794843376764.jpg"
+      ],
+      "ownerConsent": {
+        "signed": true,
+        "authorityConfirmed": true,
+        "signatoryName": "Tariq Mahmood",
+        "authorityRole": "Owner",
+        "consentTimestamp": "2026-11-15T11:20:00.000Z",
+        "termsVersion": "v1.0-2026"
+      },
+      "verificationStatus": "verification_pending",
+      "verificationChecklist": {
+        "authorityVerified": false,
+        "addressReviewed": false,
+        "photosReviewed": false,
+        "consentConfirmed": true
+      },
+      "lastUpdatedAt": "2026-11-15T11:20:00.000Z",
+      "lastAvailabilityUpdateAt": "2026-11-15T11:20:00.000Z",
+      "isActive": false
+    },
+    {
+      "id": "hst-pending-jt-02",
+      "slug": "crescent-executive-girls-residence-johar-town",
+      "name": "Crescent Executive Girls Residence",
+      "ownerName": "Mrs. Samina Farooq",
+      "managerName": "Ayesha Kamran",
+      "ownerEmail": "warden@crescentgirls.pk",
+      "publicPhone": "+92 333 4820194",
+      "publicEmail": "info@crescentgirls.pk",
+      "city": "Lahore",
+      "area": "Johar Town",
+      "fullAddress": "House 18, Block G-3, Near UMT Road, Johar Town, Lahore",
+      "category": "girls",
+      "roomTypes": [
+        {
+          "type": "Single Private",
+          "monthlyRent": 31000,
+          "availableBeds": 1
+        },
+        {
+          "type": "2-Seater",
+          "monthlyRent": 22500,
+          "availableBeds": 4
+        },
+        {
+          "type": "3-Seater",
+          "monthlyRent": 18000,
+          "availableBeds": 3
+        }
+      ],
+      "monthlyRentMin": 18000,
+      "monthlyRentMax": 31000,
+      "securityDeposit": 20000,
+      "availableBedsTotal": 8,
+      "facilities": [
+        "High-Speed Wi-Fi",
+        "Generator / UPS Backup",
+        "3-Time Mess Available",
+        "Laundry Service",
+        "24/7 Security Guard & CCTV",
+        "Attached Bathrooms",
+        "Filtered Drinking Water"
+      ],
+      "mealArrangements": "3 hygienic meals daily plus evening tea included in rent.",
+      "internetAvailability": "Dual fiber lines with separate Wi-Fi SSID per wing.",
+      "electricityBackup": "Solar hybrid inverter + automatic standby generator.",
+      "securityArrangements": "Resident female warden 24/7, biometric entry, verified guardian list.",
+      "hostelRules": "Gate closes at 9:30 PM; overnight leave requires registered parent confirmation.",
+      "photos": [
+        "/src/assets/images/hostel_girls_residence_1794843376853.jpg",
+        "/src/assets/images/hostel_dining_commons_1794843378031.jpg"
+      ],
+      "ownerConsent": {
+        "signed": true,
+        "authorityConfirmed": true,
+        "signatoryName": "Samina Farooq",
+        "authorityRole": "Owner",
+        "consentTimestamp": "2026-11-15T14:45:00.000Z",
+        "termsVersion": "v1.0-2026"
+      },
+      "verificationStatus": "verification_pending",
+      "verificationChecklist": {
+        "authorityVerified": false,
+        "addressReviewed": false,
+        "photosReviewed": false,
+        "consentConfirmed": true
+      },
+      "lastUpdatedAt": "2026-11-15T14:45:00.000Z",
+      "lastAvailabilityUpdateAt": "2026-11-15T14:45:00.000Z",
+      "isActive": false
+    }
+  ],
+  "acquisitions": [
+    {
+      "id": "acq-001",
+      "hostelName": "Canal Side Student Hostel",
+      "publicBusinessContact": "+92 300 4129801",
+      "area": "Muslim Town",
+      "category": "boys",
+      "sourceType": "Public Directory",
+      "contactDate": "",
+      "contactMethod": "Phone Call",
+      "contactStatus": "Not Contacted",
+      "followUpDate": "2026-11-18",
+      "notes": "Identified via public signboard near PU Wahdat Link. Needs initial outreach call.",
+      "contactHistory": [],
+      "verificationHistory": [
+        {
+          "id": "vh-001",
+          "timestamp": "2026-11-12T09:30:00.000Z",
+          "action": "Prospect Added",
+          "actor": "Acquisition Team",
+          "detail": "Logged from publicly displayed signboard contact."
+        }
+      ],
+      "createdAt": "2026-11-12T09:30:00.000Z",
+      "updatedAt": "2026-11-12T09:30:00.000Z"
+    },
+    {
+      "id": "acq-002",
+      "hostelName": "Faisal Comfort Girls Lodge",
+      "publicBusinessContact": "+92 322 4901122",
+      "area": "Faisal Town",
+      "category": "girls",
+      "sourceType": "Campus Notice",
+      "contactDate": "",
+      "contactMethod": "In-Person Visit",
+      "contactStatus": "Not Contacted",
+      "followUpDate": "2026-11-19",
+      "notes": "Near FAST NUCES campus gate. Pending first introduction visit.",
+      "contactHistory": [],
+      "verificationHistory": [
+        {
+          "id": "vh-002",
+          "timestamp": "2026-11-13T10:15:00.000Z",
+          "action": "Prospect Added",
+          "actor": "Acquisition Team",
+          "detail": "Identified from university noticeboard business card."
+        }
+      ],
+      "createdAt": "2026-11-13T10:15:00.000Z",
+      "updatedAt": "2026-11-13T10:15:00.000Z"
+    },
+    {
+      "id": "acq-003",
+      "hostelName": "Barkat Executive Boys Residency",
+      "publicBusinessContact": "+92 301 8452210",
+      "area": "Garden Town",
+      "category": "boys",
+      "sourceType": "Public Directory",
+      "contactDate": "2026-11-14",
+      "contactMethod": "Phone Call",
+      "contactStatus": "Contacted",
+      "followUpDate": "2026-11-17",
+      "notes": "Spoke with manager Mr. Nadeem. Asked to call back after discussing with owner.",
+      "contactHistory": [
+        {
+          "id": "cl-003",
+          "date": "2026-11-14",
+          "method": "Phone Call",
+          "status": "Contacted",
+          "summary": "Introduced Hostel Hub verification model; owner away until Monday.",
+          "recordedBy": "Admin Coordinator"
+        }
+      ],
+      "verificationHistory": [],
+      "createdAt": "2026-11-11T08:00:00.000Z",
+      "updatedAt": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "id": "acq-004",
+      "hostelName": "Iqbal Town Premier Girls Hostel",
+      "publicBusinessContact": "+92 334 4018876",
+      "area": "Allama Iqbal Town",
+      "category": "girls",
+      "sourceType": "Referral",
+      "contactDate": "2026-11-14",
+      "contactMethod": "In-Person Visit",
+      "contactStatus": "Interested",
+      "followUpDate": "2026-11-17",
+      "notes": "Owner agreed to submit official photos & consent form via Owner Registration page.",
+      "contactHistory": [
+        {
+          "id": "cl-004",
+          "date": "2026-11-14",
+          "method": "In-Person Visit",
+          "status": "Interested",
+          "summary": "Met warden; shared official Owner Registration link and consent checklist.",
+          "recordedBy": "Field Verification Lead"
+        }
+      ],
+      "verificationHistory": [],
+      "createdAt": "2026-11-10T11:00:00.000Z",
+      "updatedAt": "2026-11-14T16:20:00.000Z"
+    },
+    {
+      "id": "acq-005",
+      "hostelName": "Model Town Study Quarters",
+      "publicBusinessContact": "+92 345 4778901",
+      "area": "Model Town",
+      "category": "boys",
+      "sourceType": "Direct Inquiry",
+      "contactDate": "2026-11-13",
+      "contactMethod": "Email",
+      "contactStatus": "Awaiting Information",
+      "followUpDate": "2026-11-17",
+      "notes": "Owner registered account; awaiting interior photos and utility backup details.",
+      "contactHistory": [
+        {
+          "id": "cl-005",
+          "date": "2026-11-13",
+          "method": "Email",
+          "status": "Awaiting Information",
+          "summary": "Sent checklist of required authorized room photos and security deposit terms.",
+          "recordedBy": "Admin Coordinator"
+        }
+      ],
+      "verificationHistory": [],
+      "createdAt": "2026-11-09T12:00:00.000Z",
+      "updatedAt": "2026-11-13T17:10:00.000Z"
+    },
+    {
+      "id": "acq-006",
+      "hostelName": "Al-Noor Scholars Boys Hostel",
+      "publicBusinessContact": "+92 321 4401920",
+      "area": "DHA",
+      "category": "boys",
+      "sourceType": "Direct Inquiry",
+      "contactDate": "2026-11-15",
+      "contactMethod": "Phone Call",
+      "contactStatus": "Verification Pending",
+      "followUpDate": "2026-11-16",
+      "notes": "Full application & signed consent received. Ready for address and photo verification.",
+      "linkedHostelId": "hst-pending-dha-01",
+      "contactHistory": [
+        {
+          "id": "cl-006",
+          "date": "2026-11-15",
+          "method": "Phone Call",
+          "status": "Verification Pending",
+          "summary": "Confirmed owner Tariq Mahmood submitted listing via Owner Registration.",
+          "recordedBy": "Verification Officer"
+        }
+      ],
+      "verificationHistory": [
+        {
+          "id": "vh-006",
+          "timestamp": "2026-11-15T11:20:00.000Z",
+          "action": "Owner Submitted Listing",
+          "actor": "Tariq Mahmood (Owner)",
+          "detail": "Signed publishing consent v1.0-2026 and uploaded 2 authorized photos."
+        }
+      ],
+      "createdAt": "2026-11-12T10:00:00.000Z",
+      "updatedAt": "2026-11-15T11:20:00.000Z"
+    },
+    {
+      "id": "acq-007",
+      "hostelName": "Crescent Executive Girls Residence",
+      "publicBusinessContact": "+92 333 4820194",
+      "area": "Johar Town",
+      "category": "girls",
+      "sourceType": "Referral",
+      "contactDate": "2026-11-15",
+      "contactMethod": "WhatsApp Business",
+      "contactStatus": "Verification Pending",
+      "followUpDate": "2026-11-16",
+      "notes": "Consent and room schedule submitted by Mrs. Samina Farooq. Pending final admin sign-off.",
+      "linkedHostelId": "hst-pending-jt-02",
+      "contactHistory": [
+        {
+          "id": "cl-007",
+          "date": "2026-11-15",
+          "method": "WhatsApp Business",
+          "status": "Verification Pending",
+          "summary": "Owner confirmed availability of 8 beds across 3 room types.",
+          "recordedBy": "Verification Officer"
+        }
+      ],
+      "verificationHistory": [
+        {
+          "id": "vh-007",
+          "timestamp": "2026-11-15T14:45:00.000Z",
+          "action": "Owner Submitted Listing",
+          "actor": "Mrs. Samina Farooq (Owner)",
+          "detail": "Signed publishing consent v1.0-2026 and uploaded authorized residence photos."
+        }
+      ],
+      "createdAt": "2026-11-11T09:00:00.000Z",
+      "updatedAt": "2026-11-15T14:45:00.000Z"
+    },
+    {
+      "id": "acq-008",
+      "hostelName": "Unverified Corner Rooms",
+      "publicBusinessContact": "+92 300 9991122",
+      "area": "Thokar Niaz Baig",
+      "category": "boys",
+      "sourceType": "Public Directory",
+      "contactDate": "2026-11-12",
+      "contactMethod": "Phone Call",
+      "contactStatus": "Rejected",
+      "followUpDate": "",
+      "notes": "Rejected during verification: caller declined to provide owner authorization or verifiable physical street address.",
+      "contactHistory": [
+        {
+          "id": "cl-008",
+          "date": "2026-11-12",
+          "method": "Phone Call",
+          "status": "Rejected",
+          "summary": "Unable to verify property ownership or manager authority.",
+          "recordedBy": "Verification Officer"
+        }
+      ],
+      "verificationHistory": [
+        {
+          "id": "vh-008",
+          "timestamp": "2026-11-16T15:42:18.390Z",
+          "action": "Rejected",
+          "actor": "Verification Officer",
+          "detail": "Did not meet Hostel Hub owner authority and physical address verification standards."
+        }
+      ],
+      "createdAt": "2026-11-10T09:00:00.000Z",
+      "updatedAt": "2026-11-12T18:00:00.000Z"
+    }
+  ]
+}
